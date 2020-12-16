@@ -1,0 +1,36 @@
+HTTrack3.49-1+htsswf+htsjava launched on Wed, 16 Dec 2020 18:11:24 at https://tronapex.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tronapex.com/ -O1 "C:\My Web Sites\Necronomi Tron 5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:11:26	Warning: 	File not parsed, looks like binary: https://tronapex.com/robots.txt
+18:11:59	Warning: 	Found for https://tronapex.com/lang/en/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/en/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/ir/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/ir/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/id/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/id/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/ru/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/ru/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/de/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/de/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/fr/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/fr/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/es/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/es/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/ch/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/ch/ to /
+18:11:59	Warning: 	Found for https://tronapex.com/lang/vt/
+18:11:59	Warning: 	File has moved from https://tronapex.com/lang/vt/ to /
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/webfonts/Montserrat-Regular.woff2
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/webfonts/Montserrat-SemiBold.woff2
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/webfonts/Montserrat-Bold.woff2
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/fonts/nunitosans-bold-webfont.woff2
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/fonts/nunitosans-regular-webfont.woff2
+18:12:06	Warning: 	File not parsed, looks like binary: https://tronapex.com/tpl/css/fonts/nunitosans-semibold-webfont.woff2
+
+HTTrack Website Copier/3.49-1 mirror complete in 43 seconds : 134 links scanned, 124 files written (4090520 bytes overall) [3424338 bytes received at 79635 bytes/sec], 2136161 bytes transferred using HTTP compression in 68 files, ratio 28%, 19.1 requests per connection
+(No errors, 25 warnings, 0 messages)
